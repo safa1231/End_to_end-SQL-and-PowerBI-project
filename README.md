@@ -17,6 +17,7 @@ Download the dataset and project files here:[https://absentdata.com/wp-content/u
 
 
 🧑‍💻 Skills Practiced
+
 -SQL (database creation, queries, joins, aggregations)
 
 -Data cleaning & transformation
