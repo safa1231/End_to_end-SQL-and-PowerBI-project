@@ -9,8 +9,12 @@ Throughout the project, I learned how to:
 
 -Build a Dashboard – create a clear, engaging dashboard that summarizes the key details of my project 
 
+
+
 📂 Files & Dataset
 Download the dataset and project files here:[https://absentdata.com/wp-content/uploads/2024/09/Data-Analysis-Project-Files.zip]
+
+
 
 🧑‍💻 Skills Practiced
 -SQL (database creation, queries, joins, aggregations)
